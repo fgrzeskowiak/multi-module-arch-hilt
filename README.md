@@ -14,3 +14,6 @@ MoviesProdBaseUrl=
 MoviesStagingBaseUrl=
 ```
 This data can be obtained after creating an account on [TMDB](https://www.themoviedb.org/), in [Account Settings](https://www.themoviedb.org/settings/api)
+
+## Architecture Graph
+![Project Graph](project_graph.png?raw=true "Project Dependency Graph")
