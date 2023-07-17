@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">multi-module-playground-hilt</string>
+
+
+    <string name="bottom_menu_movies">Movies</string>
+    <string name="bottom_menu_home">Home</string>
+    <string name="bottom_menu_search">Search</string>
+    <string name="bottom_menu_account">Account</string>
+</resources>
